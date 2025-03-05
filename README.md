@@ -2,8 +2,8 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanskarmange2027/)
 - 🌱 I’m currently learning 
-  -Color Theories
-  -Wireframing
-  -Typography
+  - Color Theories
+  - Wireframing
+  - Typography
 - 💬 Ask me about Creatives/Design
 - ⚡ Fun fact: Coffee
